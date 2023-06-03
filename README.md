@@ -4,7 +4,7 @@ You are tasked to develop a temperature converter program in C#. The program wil
 
 ## Requirements
 
-1. Prompt the user to input a temperature value and a temperature scale (either Celsius or Fahrenheit).
+1. Prompt the user to input a temperature value and a temperature scale (either Celsius or Fahrenheit).//
 2. Convert the temperature to the opposite scale and display the result.
 3. Handle invalid user inputs by displaying an error message and prompting the user to enter valid inputs.
 4. Write a function called `TempConvert` to perform the temperature conversions.
@@ -36,3 +36,4 @@ Program terminated.
 ````
 
 ## Screenshots
+![ScreenShot of Result](./result.png?raw=true "Result")
